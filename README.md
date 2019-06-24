@@ -1,6 +1,6 @@
 # RCWL-0516 information
 
-Last update: 2018-08-21. Please send and feedback, corrections to jdesbonnet@gmail.com or post to the GitHub project issue tracker.
+**There is a lively discussion on the [project issue tracker](https://github.com/jdesbonnet/RCWL-0516/issues). So make sure you check it out. If anyone wants to help keeping this main page updated let me know.**
 
 RCWL-0516 is a doppler radar microwave motion sensor module which can act as an alternative to a PIR motion sensor. This git repository is an attempt to collect the rather scant information on this board in one place.
 
@@ -175,7 +175,7 @@ https://patents.google.com/patent/CN101738640A/en
 
  * [Thomas Peng Pan](http://www.mobile-chinese.com/blog/) for help with translation of the Chinese text on the schematic.
 
-## Other links, articles and contributions
+## Other videos, articles, links etc
 
 
 From: Roger Clarke ( https://github.com/rogerclarkmelbourne ) 
@@ -189,8 +189,15 @@ https://www.tayloredge.com/reference/Electronics/RF/0242.pdf
 
 This video from [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog/featured) explains the operation of a similar module (CDM324) in great detail:  https://www.youtube.com/watch?v=5vqSX40seqA
 
+This video from DroneBot Workshop is a good tutorial specifically for the RCWL-0516 module:
+https://www.youtube.com/watch?v=IJoPkKlxFXA  (thanks for that tip [underwoodblog](https://github.com/underwoodblog) !)
+
+A video from Big Clive "How microwave body detectors work. With RF section schematic."
+https://www.youtube.com/watch?v=Hf19hc9PtcE (again thanks to [underwoodblog](https://github.com/underwoodblog) )
 
 ## Updates
+
+14 May 2019: More main page content updates.
 
 21 Aug 2018: Added link to The Signal Path video explaing operation of similar module:
  https://www.youtube.com/watch?v=5vqSX40seqA
